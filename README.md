@@ -58,3 +58,4 @@ if "_" not in guessed_word:
 else:
     print("\nGame Over!")
     print("The correct word was:", word)
+
